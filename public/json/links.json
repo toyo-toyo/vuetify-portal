@@ -1,0 +1,100 @@
+[
+  {
+    "title": "",
+    "cards":
+      [
+        {
+          "cardtitle": "Welcome to xxxx Portal Site.",
+          "title": "",
+          "description": "",
+          "src": "https://source.unsplash.com/random",
+          "href": "",
+          "sm":"12",
+          "md":"12",
+          "lg":"12"
+        },
+        {
+          "cardtitle": "",
+          "title": "",
+          "description": "Our values are based on four essential freedoms that define who we are. · Freedom of Expression · Freedom of Information · Freedom of Opportunity · Freedom to Belong · The latest link from xxxx portal · Trending topics on xxxx portal.",
+          "src": "",
+          "href": "",
+          "sm":"12",
+          "md":"12",
+          "lg":"12"
+        }
+      ]
+  },
+  {
+    "title": "Main Link",
+    "cards":
+      [
+        {
+          "cardtitle": "YouTube",
+          "title": "YouTube",
+          "description": "Trending topics and videos on YouTube.",
+          "src": "https://pbs.twimg.com/profile_images/1308106203860529152/yOwTDF9G_400x400.jpg",
+          "href": "https://www.youtube.com/?gl=JP&hl=ja",
+          "sm":"6",
+          "md":"6",
+          "lg":"6"
+        },
+        {
+          "cardtitle": "Twitter",
+          "title": "Twitter",
+          "src": "https://pbs.twimg.com/profile_images/1308010958862905345/-SGZioPb_400x400.jpg",
+          "href": "https://twitter.com/home",
+          "description": "description",
+          "sm":"6",
+          "md":"6",
+          "lg":"6"
+        },
+        {
+          "cardtitle": "Amazon",
+          "title": "Amazon",
+          "src": "https://pbs.twimg.com/profile_images/963607433414262784/C8JGUk5V_400x400.jpg",
+          "href": "https://www.amazon.co.jp/",
+          "description": "description",
+          "sm":"6",
+          "md":"4",
+          "lg":"3"
+        },
+        {
+          "cardtitle": "Qiita",
+          "title": "Qiita New arrival",
+          "src": "https://pbs.twimg.com/profile_images/1201406146822557696/ewFFvnAa_400x400.jpg",
+          "href": "https://qiita.com/items",
+          "description": "New articles",
+          "sm":"6",
+          "md":"4",
+          "lg":"3"
+        },
+        {
+          "cardtitle": "connpass",
+          "title": "connpass",
+          "src": "https://pbs.twimg.com/profile_images/540067771736813568/tIWMSAZF_400x400.png",
+          "href": "https://connpass.com",
+          "description": "description",
+          "sm":"6",
+          "md":"4",
+          "lg":"3"
+        }
+      ]
+  },
+  {
+    "title": "Sub Link",
+    "cards":
+      [
+        {
+          "cardtitle": "GitHub",
+          "title": "",
+          "src": "https://source.unsplash.com/random/1",
+          "href": "https://github.com",
+          "description": "description",
+          "sm":"12",
+          "md":"12",
+          "lg":"12"
+        }
+      ]
+  }
+]

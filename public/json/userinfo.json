@@ -1,0 +1,23 @@
+{
+  "name": "guest",
+  "description": "whisper",
+  "avatar": "https://lohas.nicoseiga.jp//thumb/4327565uz?",
+  "actions":
+    [
+        {
+          "title": "Set Up",
+          "icon": "mdi-wrench",
+          "href": ""
+        },
+        {
+          "title": "Photos",
+          "icon": "mdi-image",
+          "href": ""
+        },
+        {
+          "title": "Help!",
+          "icon": "mdi-help-box",
+          "href": "https://www.google.com/"
+        }
+    ]
+}
