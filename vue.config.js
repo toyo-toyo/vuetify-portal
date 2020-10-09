@@ -2,7 +2,8 @@
 const path = require("path");
 
 module.exports = {
-  publicPath: '/vuetify-portal/',
+  // GitHub Pages
+  publicPath: process.env.NODE_ENV === "production" ? "/vuetify-portal/" : "/",
   outputDir: path.resolve(__dirname, "docs"),
   transpileDependencies: ["vuetify"],
   devServer: {
